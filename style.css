@@ -2,7 +2,7 @@ body{
     background-color: #050834;
 }
 h1{
-    color: #051650;
+    color: #ffffff;
 }
 div{
     width: 90%;
@@ -14,8 +14,9 @@ img{
 }
 .texto{
     width: 100%;
-    background-color: #ffffffce;
+    background-color: #061761;
     text-align: center;
+	color: #ffffff;
 }
 .grupo_fotos{
     background-color: #0b1957;
@@ -30,24 +31,23 @@ img{
 }
 
 .myButton {
-	box-shadow:inset 0px 1px 0px 0px #e184f3;
-	background:linear-gradient(to bottom, #c123de 5%, #a20dbd 100%);
-	background-color:#c123de;
-	border-radius:6px;
-	border:1px solid #d900ff;
+	box-shadow:inset 0px 1px 0px 0px #75baff;
+	background:linear-gradient(to bottom, #026a9e 5%, #0d2f47 100%);
+	background-color:#026a9e;
+	border-radius:3px;
+	border:1px solid #124d77;
 	display:inline-block;
 	cursor:pointer;
 	color:#ffffff;
 	font-family:Arial;
-	font-size:15px;
-	font-weight:bold;
+	font-size:13px;
 	padding:6px 24px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #00ff22;
+	text-shadow:0px 1px 0px #154682;
 }
 .myButton:hover {
-	background:linear-gradient(to bottom, #a20dbd 5%, #c123de 100%);
-	background-color:#a20dbd;
+	background:linear-gradient(to bottom, #0d2f47 5%, #026a9e 100%);
+	background-color:#0d2f47;
 }
 .myButton:active {
 	position:relative;
