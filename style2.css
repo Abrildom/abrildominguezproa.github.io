@@ -1,5 +1,5 @@
 body{
-    background-color: blue;
+    background-color: #5c0000;
 }
 h2{
     color: #ffffff;
@@ -14,7 +14,31 @@ img{
 }
 .texto2{
     width: 100%;
-    background-color: #610606;
+    background-color: #7b0202;
     text-align: center;
 	color: #ffffff;
+}
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #f29c93;
+	background:linear-gradient(to bottom, #e62d1c 5%, #471212 100%);
+	background-color:#e62d1c;
+	border-radius:6px;
+	border:1px solid #d83526;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #b23e35;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #471212 5%, #e62d1c 100%);
+	background-color:#471212;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
 }
