@@ -18,6 +18,16 @@ img{
     text-align: center;
 	color: #ffffff;
 }
+.grupu_fotos2{
+	background-color: #5c0000;ç
+	width: 100%;
+}
+.fotos{
+	background-color: #5c0000;
+	display: block;
+
+}
+
 .myButton {
 	box-shadow:inset 0px 1px 0px 0px #f29c93;
 	background:linear-gradient(to bottom, #e62d1c 5%, #471212 100%);
@@ -41,4 +51,14 @@ img{
 .myButton:active {
 	position:relative;
 	top:1px;
+}
+.texto3{
+	width: 90%;
+text-align: center;
+color: #ffffff;
+}
+.texto4{
+	width: 90%;
+text-align: center;
+color: #ffffff;
 }
