@@ -1,5 +1,12 @@
+@font-face {
+	font-family: "fuenteelegida" ;
+	src: url("fonts/Cormorant/Cormorant-Italic-VariableFont_wght.ttf");
+}
+
+
 body{
     background-color: #050834;
+	font-family: 'fuenteelegida';
 }
 h1{
     color: #ffffff;
