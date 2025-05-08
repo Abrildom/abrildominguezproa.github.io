@@ -1,9 +1,7 @@
 @font-face {
 	font-family: "fuenteelegida" ;
-	src: url("fonts/Cormorant/Cormorant-Italic-VariableFont_wght.ttf");
+	src: url("fonts/Cormorant\,Cormorant_Upright\,Josefin_Slab/");
 }
-
-
 body{
     background-color: #050834;
 	font-family: 'fuenteelegida';
@@ -74,4 +72,15 @@ img{
 	width: 100%;
 	text-align: center;
 	color: #ffffff;
+}
+#listanav{
+	text-decoration: none;
+	border-radius: 5px;
+}
+#listanav{
+	color: #ffffff;
+}
+#listanav li{
+	display: inline-block;
+	padding: 5px;
 }

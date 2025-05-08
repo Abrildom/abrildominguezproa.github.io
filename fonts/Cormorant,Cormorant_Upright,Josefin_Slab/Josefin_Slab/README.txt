@@ -1,28 +1,32 @@
-Cormorant Variable Font
-=======================
+Josefin Slab Variable Font
+==========================
 
-This download contains Cormorant as both variable fonts and static fonts.
+This download contains Josefin Slab as both variable fonts and static fonts.
 
-Cormorant is a variable font with this axis:
+Josefin Slab is a variable font with this axis:
   wght
 
 This means all the styles are contained in these files:
-  Cormorant-VariableFont_wght.ttf
-  Cormorant-Italic-VariableFont_wght.ttf
+  Josefin_Slab/JosefinSlab-VariableFont_wght.ttf
+  Josefin_Slab/JosefinSlab-Italic-VariableFont_wght.ttf
 
 If your app fully supports variable fonts, you can now pick intermediate styles
 that aren’t available as static fonts. Not all apps support variable fonts, and
-in those cases you can use the static font files for Cormorant:
-  static/Cormorant-Light.ttf
-  static/Cormorant-Regular.ttf
-  static/Cormorant-Medium.ttf
-  static/Cormorant-SemiBold.ttf
-  static/Cormorant-Bold.ttf
-  static/Cormorant-LightItalic.ttf
-  static/Cormorant-Italic.ttf
-  static/Cormorant-MediumItalic.ttf
-  static/Cormorant-SemiBoldItalic.ttf
-  static/Cormorant-BoldItalic.ttf
+in those cases you can use the static font files for Josefin Slab:
+  Josefin_Slab/static/JosefinSlab-Thin.ttf
+  Josefin_Slab/static/JosefinSlab-ExtraLight.ttf
+  Josefin_Slab/static/JosefinSlab-Light.ttf
+  Josefin_Slab/static/JosefinSlab-Regular.ttf
+  Josefin_Slab/static/JosefinSlab-Medium.ttf
+  Josefin_Slab/static/JosefinSlab-SemiBold.ttf
+  Josefin_Slab/static/JosefinSlab-Bold.ttf
+  Josefin_Slab/static/JosefinSlab-ThinItalic.ttf
+  Josefin_Slab/static/JosefinSlab-ExtraLightItalic.ttf
+  Josefin_Slab/static/JosefinSlab-LightItalic.ttf
+  Josefin_Slab/static/JosefinSlab-Italic.ttf
+  Josefin_Slab/static/JosefinSlab-MediumItalic.ttf
+  Josefin_Slab/static/JosefinSlab-SemiBoldItalic.ttf
+  Josefin_Slab/static/JosefinSlab-BoldItalic.ttf
 
 Get started
 -----------
