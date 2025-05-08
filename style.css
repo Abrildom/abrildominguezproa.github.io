@@ -73,11 +73,9 @@ img{
 	text-align: center;
 	color: #ffffff;
 }
-#listanav{
+#listanav a{
 	text-decoration: none;
 	border-radius: 5px;
-}
-#listanav{
 	color: #ffffff;
 }
 #listanav li{
