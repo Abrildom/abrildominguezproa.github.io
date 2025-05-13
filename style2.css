@@ -1,5 +1,10 @@
+@font-face {
+	font-family: "fuenteelegida" ;
+	src: url("fonts/PlayfairDisplay-VariableFont_wght.ttf");
+}
 body{
     background-color: #5c0000;
+	font-family: 'fuenteelegida';
 }
 h3{
     color: #ffffff;
