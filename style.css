@@ -82,8 +82,16 @@ img{
 	display: inline-block;
 	padding: 5px;
 }
-table{
-	background-color: #0d2f47;
-	border: #124d77;
+.tabla1 th{
+	background-color: #5a84af;
+	border: #000000;
 	border-style: double;
+	color: #ffffff;
+}
+
+.tabla2 th{
+	background-color: rgb(184, 75, 75);
+	border: black;
+	border-style: double;
+	color: #ffffff;
 }
