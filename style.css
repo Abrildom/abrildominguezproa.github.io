@@ -58,11 +58,6 @@ img{
 	position:relative;
 	top:1px;
 }
-.texto1{
-    width: 100%;
-    text-align: center;
-	color: #ffffff;
-}
 .texto7{
 	width: 100%;
 	text-align: center;
@@ -71,11 +66,6 @@ img{
 #texto7 a{
 	text-decoration: none;
 	border-radius: 5px;
-	color: #ffffff;
-}
-.texto8{
-	width: 100%;
-	text-align: center;
 	color: #ffffff;
 }
 #listanav a{
