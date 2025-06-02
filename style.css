@@ -73,6 +73,12 @@ img{
 	border-radius: 5px;
 	color: #ffffff;
 }
+#listanav a:hover{
+	text-decoration: none;
+	border-radius: 5px;
+	color: #ffffff;
+	background-color: #75baff;
+}
 #listanav li{
 	display: inline-block;
 	padding: 5px;
