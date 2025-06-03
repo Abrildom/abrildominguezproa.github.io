@@ -22,13 +22,13 @@ img{
     background-color: #061761;
     text-align: center;
 	color: #ffffff;
-	margin-left: 3%;
-	margin-right: 3%;
+	margin-left: 2%;
+	margin-right: 2%;
 }
 .grupo_fotos{
     background-color: #0b1957;
 	width: 100%;
-    display: flex;
+	display: flex;
     flex-wrap: wrap;
 }
 .fotos{
@@ -67,8 +67,8 @@ img{
 	width: 100%;
 	text-align: center;
 	color: #ffffff;
-	margin-left: 3%;
-	margin-right: 3%;
+	margin-left: 2%;
+	margin-right: 2%;
 }
 #texto7 a{
 	text-decoration: none;
