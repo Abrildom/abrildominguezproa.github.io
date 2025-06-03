@@ -26,6 +26,8 @@ img{
 .grupo_fotos{
     background-color: #0b1957;
 	width: 100%;
+    display: flex;
+    flex-wrap: wrap;
 }
 .fotos{
     background-color: #050834;
