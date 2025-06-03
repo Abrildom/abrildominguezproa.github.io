@@ -13,7 +13,7 @@ div{
     width: 90%;
 }
 img{
-	height: 400px;
+    width: 100%;
     margin-left: 20%;
     margin-right: 20%;
 }
@@ -22,6 +22,8 @@ img{
     background-color: #061761;
     text-align: center;
 	color: #ffffff;
+	margin-left: 3%;
+	margin-right: 3%;
 }
 .grupo_fotos{
     background-color: #0b1957;
@@ -35,6 +37,7 @@ img{
     display: inline-block;
     margin-left: 1%;
     margin-right: 1%;
+	object-fit: contain;
 }
 
 .myButton {
@@ -64,6 +67,8 @@ img{
 	width: 100%;
 	text-align: center;
 	color: #ffffff;
+	margin-left: 3%;
+	margin-right: 3%;
 }
 #texto7 a{
 	text-decoration: none;
